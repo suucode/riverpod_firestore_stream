@@ -1,4 +1,6 @@
 # Miscellaneous
+#/ios/firebase_app_id_file.json #다른사람이 실수로 push하지않도록 하기위해서 사용
+#/android/app/google-services.json
 *.class
 *.log
 *.pyc
